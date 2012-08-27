@@ -8,8 +8,8 @@ Very easy usage:
   Editable regions - <span id="editable">Editable text </span> - $("#editable").editSingleLine();
   
 TODO:
-  Split document in pages
-  Editable text area
-  Editable page margins
-  Footers and headers
+  Split document in pages, 
+  Editable text area, 
+  Editable page margins, 
+  Footers and headers, 
   etc, coming soon
