@@ -15,4 +15,4 @@ TODO:
   Own icons, 
   etc, coming soon
   
-*Icons is from https://github.com/etimbo/jquery-print-preview-plugin
+*Icons are from https://github.com/etimbo/jquery-print-preview-plugin
