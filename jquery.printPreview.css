@@ -1,0 +1,50 @@
+#print_preview_container {
+	margin: 50px;
+}
+
+#print_preview_border{
+	background-color: white; 
+	position: absolute; 
+	width: 210mm; 
+	min-height: 297mm;
+	top: 0px;
+	left: 50%;
+	margin-left: -450px ;
+	-moz-box-shadow: 0 0 5px #D2D2D2;
+	-webkit-box-shadow: 0 0 5px #D2D2D2;
+	box-shadow: 0 0 5px #D2D2D2;
+}
+
+#print_preview_background {
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+	bottom: 0; 
+	right:0; 
+	background-color: black;
+}
+
+#print_preview_clouse_btn {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	width: 29px;
+	height: 29px;
+	background-image: url(images/icon-close.png);
+}
+
+#print_preview_print_btn {
+	position: fixed;
+	top: 10px;
+	left: 40px;
+	width: 29px;
+	height: 29px;
+	background-image: url(images/icon-print.png);
+}
+
+#edit_symbol {
+	display:inline-block;
+	width: 8px;
+	height: 8px;
+	background-image: url(images/edit_icon.png);	
+}
