@@ -4,7 +4,7 @@ jquery.printPreview
 JQuery plugin for easy printing with editable regions
 
 Very easy usage:
-  Use simple href <a href="blahblah" id="printlink">blah blah</a> and then set -  $("#printlink").printPreview();
+  Use simple href and then set -  $("#printlink").printPreview();
   Editable regions - <span id="editable">Editable text </span> - $("#editable").editSingleLine();
   
 TODO:
