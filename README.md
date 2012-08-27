@@ -12,4 +12,7 @@ TODO:
   Editable text area, 
   Editable page margins, 
   Footers and headers, 
+  Own icons, 
   etc, coming soon
+  
+*Icons is from https://github.com/etimbo/jquery-print-preview-plugin
